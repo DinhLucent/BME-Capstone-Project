@@ -1,13 +1,18 @@
-# BME-Capstone-Project
+# Project Capstone
 
-A comprehensive capstone project for Biomedical Engineering, focusing on the design and implementation of medical equipment or diagnostic software.
+University capstone project documentation and final deliverables.
 
-## ┬┐ Project Overview
-This repository contains the design documents, source code, and project reports for the final year BME capstone project.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Project Structure
-- `src/`: Main implementation files.
-- `docs/`: Technical reports and the [Capstone Project.pdf](docs/Capstone%20Project.pdf).
+## Tech Stack
+- **Primary**: Capstone
+- **Domain**: Bme
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
